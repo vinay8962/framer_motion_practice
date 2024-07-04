@@ -1,0 +1,9 @@
+.example-button{
+  background-color: rgb(96, 60, 255);
+  color: wheat;
+  font-size : 1.8rem;
+  border-radius: 0.4rem;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+}
