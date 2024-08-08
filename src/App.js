@@ -4,6 +4,8 @@ import "./App.css";
 import Toggle from './Toggle';
 import Gestures from './Gestures';
 import ViewBasedAnimation from './ViewBasedAnimation';
+import ScrollAnimation from './ScrollAnimation';
+import { SVGIcon } from './SVGIcon';
 // import AnimationControl from './AnimationControl';
 
 const App = () => {
@@ -13,7 +15,9 @@ const App = () => {
       {/* <Toggle /> */}
       {/* <Gestures /> */}
       {/* <AnimationControl /> */}
-      <ViewBasedAnimation />
+      {/* <ViewBasedAnimation /> */}
+      {/* <ScrollAnimation /> */}
+      <SVGIcon />
     </div>
   )
 }
